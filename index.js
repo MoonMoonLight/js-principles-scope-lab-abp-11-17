@@ -3,13 +3,13 @@
 var customerName = "bob";
 
 
-/*function upperCaseCustomerName(string){
+function upperCaseCustomerName(string){
   var customerName = "bob";
   return customerName.toUpperCase();
 }
 upperCaseCustomerName();
 
-function setBestCustomer(string){
+/*function setBestCustomer(string){
   const bestCustomer = "not bob";
   return bestCustomer;
 }
