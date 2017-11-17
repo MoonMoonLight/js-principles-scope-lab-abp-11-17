@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-const customerName = "bob";
+var customerName = "bob";
 
 /*function upperCaseCustomerName(string){
   var customerName = "bob";
