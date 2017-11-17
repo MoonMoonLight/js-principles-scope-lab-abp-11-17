@@ -7,7 +7,7 @@ function upperCaseCustomerName(customerName){
   //let customerName = "bob";
   return customerName.toUpperCase();
 }
-//upperCaseCustomerName();
+upperCaseCustomerName();
 
 /*function setBestCustomer(string){
   const bestCustomer = "not bob";
